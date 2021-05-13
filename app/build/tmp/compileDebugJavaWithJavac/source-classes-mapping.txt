@@ -1,0 +1,8 @@
+com/example/aplicaomos/MainActivity.java
+ com.example.aplicaomos.MainActivity
+com/example/aplicaomos/BuildConfig.java
+ com.example.aplicaomos.BuildConfig
+com/example/aplicaomos/activity_video.java
+ com.example.aplicaomos.activity_video
+com/example/aplicaomos/WebViewClientImpl.java
+ com.example.aplicaomos.WebViewClientImpl
