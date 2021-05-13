@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>YoutubeFrame</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+
+</head>
+
+<body style="font-family: sans-serif; ">
+
+    <iframe style="width: 100%;" width="" height="280" id="frameY" src=" " title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </br>
+    <div style="justify-content: center; align-items: center; justify-items: center;">
+        <button class="waves-effect waves-light btn" style="background-color:#3700B3; margin-left: 1rem; font-size: medium; float: left;" onclick="aleatorio1()">Vídeo
+            Anterior</button>
+        <button class="waves-effect waves-light btn" style="background-color:#3700B3; margin-left: 1rem; font-size: medium; float: right;" onclick="aleatorio()">Próximo
+            Vídeo</button>
+    </div>
+    
+
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+<script>
+    // var lin = {
+    //     0: "https://www.youtube.com/embed/e44NHB_2J7w",
+    //     2: "https://youtu.be/MCHLcqin7Ng",
+    //     3: "https://youtu.be/Kuvhb6MjEhA",
+    //     4: "https://youtu.be/koTgeDM8ruo",
+    //     5: "https://youtu.be/JTOWBzNJcv0"
+    // };
+    var lin = [
+        "https://www.youtube.com/embed/e44NHB_2J7w",
+        "https://www.youtube.com/embed/MCHLcqin7Ng",
+        "https://www.youtube.com/embed/Kuvhb6MjEhA",
+        "https://www.youtube.com/embed/koTgeDM8ruo",
+        "https://www.youtube.com/embed/JTOWBzNJcv0"
+    ]
+
+    var x = document.getElementById("frameY")
+    var i = 0
+    document.onload(x.setAttribute('src', lin[0]))
+
+    function aleatorio() {
+
+        if (i == (lin.length - 1)) {
+            i = -1
+        }
+        i++
+        x.setAttribute('src', lin[i])
+    }
+
+    function aleatorio1() {
+
+        if (i == (0)) {
+            i = lin.length
+        }
+        i--
+        x.setAttribute('src', lin[i])
+    }
+</script>
+
+</html>
