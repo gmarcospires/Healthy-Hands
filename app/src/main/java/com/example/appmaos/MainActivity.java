@@ -1,7 +1,12 @@
 package com.example.appmaos;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.app.NotificationCompat;
+import androidx.core.app.NotificationManagerCompat;
 
+import android.app.PendingIntent;
+import android.app.TaskStackBuilder;
+import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -24,6 +29,5 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, activity_video.class);
         startActivity(intent);
     }
-    
 }
 
