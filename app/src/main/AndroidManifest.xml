@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.aplicaomos">
+    package="com.example.appmaos">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -21,9 +21,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity_video">
-        <meta-data
-            android:name="android.support.PARENT_ACTIVITY"
-            android:value=".MainActivity" />
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
         </activity>
     </application>
 

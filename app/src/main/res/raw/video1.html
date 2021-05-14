@@ -8,23 +8,60 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-
+    <style>
+        #preloader {
+            position: fixed !important;
+            top: 0 !important;
+            left: 0 !important;
+            right: 0 !important;
+            bottom: 0 !important;
+            background-color: white !important;
+            /* cor do background que vai ocupar o body */
+            z-index: 999 !important;
+            /* z-index para jogar para frente e sobrepor tudo */
+        }
+    </style>
 
 </head>
 
 <body style="font-family: sans-serif; ">
+    <!-- <div id="preloader">
+        <div class="inner">
+            <div class="spinner-border text-light d-block"
+                style="width: 15rem; height: 15rem;" role="status">
+            </div>
+        </div>
+    </div> -->
+    <div id="preloader" style="display: none;">
+        <div class="preloader-wrapper big active" style="top: 50%; left: 50%;">
+            <div class="spinner-layer spinner-blue-only">
+                <div class="circle-clipper left">
+                    <div class="circle"></div>
+                </div>
+                <div class="gap-patch">
+                    <div class="circle"></div>
+                </div>
+                <div class="circle-clipper right">
+                    <div class="circle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <iframe style="width: 100%;" width="" height="280" id="frameY" src=" " title="YouTube video player" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
     </br>
     <div style="justify-content: center; align-items: center; justify-items: center;">
-        <button class="waves-effect waves-light btn" style="background-color:#3700B3; margin-left: 1rem; font-size: medium; float: left;" onclick="aleatorio1()">Vídeo
+        <button class="waves-effect waves-light btn" style="background-color:#3700B3; margin-left: 1rem; float: left;"
+            onclick="aleatorio1()">Vídeo
             Anterior</button>
-        <button class="waves-effect waves-light btn" style="background-color:#3700B3; margin-left: 1rem; font-size: medium; float: right;" onclick="aleatorio()">Próximo
+        <button class="waves-effect waves-light btn"
+            style="background-color:#3700B3; margin-left: 0.5rem; float: right;" onclick="aleatorio()">Próximo
             Vídeo</button>
     </div>
-    
+
 
 
     <!-- Compiled and minified JavaScript -->
@@ -51,7 +88,7 @@
     document.onload(x.setAttribute('src', lin[0]))
 
     function aleatorio() {
-
+        // tempo()
         if (i == (lin.length - 1)) {
             i = -1
         }
@@ -59,8 +96,23 @@
         x.setAttribute('src', lin[i])
     }
 
-    function aleatorio1() {
+    function tempo() {
+        document.getElementById("preloader").style.display = "block";
+        var i = setInterval(function () {
 
+            clearInterval(i);
+
+            // O código desejado é apenas isto:
+            document.getElementById("preloader").style.display = "none";
+            // document.getElementById("conteudo").style.display = "inline";
+
+        }, 1000);
+
+
+    }
+
+    function aleatorio1() {
+        // tempo()
         if (i == (0)) {
             i = lin.length
         }

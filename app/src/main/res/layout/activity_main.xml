@@ -4,11 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    android:backgroundTint="@color/design_default_color_on_primary"
     android:paddingLeft="5dp"
     android:paddingTop="20dp"
     android:paddingRight="5dp"
-    android:paddingBottom="20dp">
+    android:paddingBottom="20dp"
+    tools:context=".MainActivity">
 
     <ScrollView
         android:layout_width="wrap_content"
@@ -69,7 +70,8 @@
                 android:paddingBottom="5dp"
                 android:text="@string/Sobre2"
                 android:textColor="@color/black"
-                android:textSize="18sp" />
+                android:textSize="18sp"
+                android:theme="@style/Theme.AplicaçãoMãos" />
 
             <TextView
                 android:id="@+id/textView"
