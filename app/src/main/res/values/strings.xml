@@ -7,10 +7,16 @@
     <string name="SobreVideo2"> Os vídeos estão em inglês, mas não há problema! Siga os exercícios e pratique.</string>
     <string name="RecomendacoesT"> Recomendações </string>
     <string name="Problema">Problema</string>
+    <string name="Proximo">Próxma imagem</string>
+    <string name="Anterior">Imagem anterior</string>
+    <string name="Proximoe">Próxmo selo</string>
+    <string name="Anteriore">Selo anterior</string>
     <string name="Solução">Há solução?</string>
     <string name="video">Acesse os vídeos</string>
     <string name="notificacoes">Acesse as imagens</string>
     <string name="sobrLT">Sobre o Dr. Levi Harrison</string>
+    <string name="eggT">Escola Ninja da Aldeia da Folha</string>
+    <string name="egg">Os selos são usados para realizar muitos ninjutsu, genjutsu e outras artes secretas além do taijutsu. Inventados por Indra Ōtsutsuki, eles são projetados para ajudar as pessoas a convocar e moldar adequadamente o chakra necessário para executar uma técnica. Existem diferentes sequências de selos de mão para cada técnica, exigindo memorização.</string>
     <string name="sobrL">O Dr. Levi Harrison formou-se em medicina pela Universidade da Califórnia em Davis, School of Medicine e concluiu a bolsa de estudos no internacionalmente renomado Indiana Hand to Shoulder Center em Indianápolis. Ele completou sua residência em Cirurgia Ortopédica em Los Angeles, onde agora reside e avalia pacientes. Sua prática é um centro de excelência para lesões de membros superiores e ombros relacionadas a esportes, bem como reabilitação de mãos.</string>
     <string name="Sobre2">LER/DORT é uma síndrome constituída por um grupo de doenças – tendinite, tenossinovite, bursite, epicondilite, síndrome do túnel do carpo, dedo em gatilho, síndrome do desfiladeiro torácico, síndrome do pronador redondo, mialgias –, que afeta músculos, nervos e tendões dos membros superiores principalmente, e sobrecarrega o sistema musculoesquelético. Esse distúrbio provoca dor e inflamação e pode alterar a capacidade funcional da região comprometida. </string>
     <string name="Recomendacoes"> Os exercícios são para prevenção dos problemas ortopédicos, mas não subistitui um médico! Caso sinta dores ou desconfortos a consulta ao médico é imprescindível.  </string>

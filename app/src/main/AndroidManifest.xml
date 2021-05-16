@@ -12,7 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AplicaçãoMãos"
         android:usesCleartextTraffic="true">
-        <activity android:name=".activity_image"></activity>
+        <activity android:name=".egg">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".activity_image">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

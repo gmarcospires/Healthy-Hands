@@ -21,6 +21,16 @@
         android:testOnly="true"
         android:theme="@style/Theme.AplicaçãoMãos"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.example.appmaos.egg" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name="com.example.appmaos.activity_image" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
         <activity android:name="com.example.appmaos.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

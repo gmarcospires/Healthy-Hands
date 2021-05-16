@@ -1,8 +1,12 @@
-com/example/appmaos/activity_video.java
- com.example.appmaos.activity_video
-com/example/appmaos/WebViewClientImpl.java
- com.example.appmaos.WebViewClientImpl
 com/example/appmaos/BuildConfig.java
  com.example.appmaos.BuildConfig
+com/example/appmaos/WebViewClientImpl.java
+ com.example.appmaos.WebViewClientImpl
+com/example/appmaos/activity_video.java
+ com.example.appmaos.activity_video
+com/example/appmaos/egg.java
+ com.example.appmaos.egg
 com/example/appmaos/MainActivity.java
  com.example.appmaos.MainActivity
+com/example/appmaos/activity_image.java
+ com.example.appmaos.activity_image

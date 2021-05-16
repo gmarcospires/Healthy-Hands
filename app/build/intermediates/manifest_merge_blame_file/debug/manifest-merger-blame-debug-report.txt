@@ -15,7 +15,7 @@
 11-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:7:5-28:19
+13-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:7:5-37:19
 14        android:allowBackup="true"
 14-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:8:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -34,30 +34,50 @@
 22-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:13:9-51
 23        android:usesCleartextTraffic="true" >
 23-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:14:9-44
-24        <activity android:name="com.example.appmaos.MainActivity" >
-24-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:16:9-22:20
-24-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:16:19-47
-25            <intent-filter>
-25-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:17:13-21:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:18:17-69
-26-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:18:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:20:17-77
-28-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:20:27-74
-29            </intent-filter>
-30        </activity>
-31        <activity android:name="com.example.appmaos.activity_video" >
-31-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:23:9-27:20
-31-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:23:19-49
-32            <meta-data
-32-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:24:13-26:49
-33                android:name="android.support.PARENT_ACTIVITY"
-33-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:25:17-63
-34                android:value=".MainActivity" />
-34-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:26:17-46
-35        </activity>
-36    </application>
+24        <activity android:name="com.example.appmaos.egg" >
+24-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:15:9-19:20
+24-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:15:19-38
+25            <meta-data
+25-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:16:13-18:49
+26                android:name="android.support.PARENT_ACTIVITY"
+26-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:17:17-63
+27                android:value=".MainActivity" />
+27-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:18:17-46
+28        </activity>
+29        <activity android:name="com.example.appmaos.activity_image" >
+29-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:20:9-24:20
+29-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:20:19-49
+30            <meta-data
+30-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:16:13-18:49
+31                android:name="android.support.PARENT_ACTIVITY"
+31-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:17:17-63
+32                android:value=".MainActivity" />
+32-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:18:17-46
+33        </activity>
+34        <activity android:name="com.example.appmaos.MainActivity" >
+34-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:25:9-31:20
+34-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:25:19-47
+35            <intent-filter>
+35-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:26:13-30:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:27:17-69
+36-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:27:25-66
 37
-38</manifest>
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:29:17-77
+38-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:29:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity android:name="com.example.appmaos.activity_video" >
+41-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:32:9-36:20
+41-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:32:19-49
+42            <meta-data
+42-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:16:13-18:49
+43                android:name="android.support.PARENT_ACTIVITY"
+43-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:17:17-63
+44                android:value=".MainActivity" />
+44-->C:\Users\marco\AndroidStudioProjects\AppMaos\app\src\main\AndroidManifest.xml:18:17-46
+45        </activity>
+46    </application>
+47
+48</manifest>
