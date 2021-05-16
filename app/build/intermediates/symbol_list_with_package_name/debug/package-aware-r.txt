@@ -1640,6 +1640,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable drlevi
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -1873,6 +1874,7 @@ id ignore
 id ignoreRequest
 id image
 id imageView
+id imageView2
 id info
 id invisible
 id inward
@@ -2063,6 +2065,9 @@ id textView2
 id textView3
 id textView4
 id textView5
+id textView6
+id textView7
+id textView8
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2162,7 +2167,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
-layout activity_video
 layout activity_video3
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -2359,6 +2363,8 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string sobrL
+string sobrLT
 string status_bar_notification_info_overflow
 string titulo
 string video

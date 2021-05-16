@@ -5,9 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:backgroundTint="@color/design_default_color_on_primary"
-    android:paddingLeft="5dp"
+    android:paddingLeft="10dp"
     android:paddingTop="20dp"
-    android:paddingRight="5dp"
+    android:paddingRight="10dp"
     android:paddingBottom="20dp"
     tools:context=".MainActivity">
 
@@ -93,7 +93,7 @@
                     android:id="@+id/button"
                     android:layout_width="258dp"
                     android:layout_height="wrap_content"
-                    android:onClick="sendMessage"
+                    android:onClick="activityVideo"
                     android:text="@string/video"
                     android:textSize="18sp"
                     app:backgroundTint="@color/purple_700" />
@@ -103,6 +103,7 @@
                     android:layout_width="263dp"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-medium"
+                    android:onClick="activityImage"
                     android:text="@string/notificacoes"
                     android:textSize="18sp"
                     app:backgroundTint="@color/purple_700" />

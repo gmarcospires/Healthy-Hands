@@ -1,15 +1,18 @@
 <resources>
     <string name="app_name">AplicaçãoMãos</string>
     <string name="titulo">Como melhorar a saúde das mãos?</string>
-    <string name="SobreVideoT"> Exercícios </string>
+    <string name="SobreVideoT"> Exercícios em Vídeo</string>
+    <string name="SobreimageT"> Exercícios em Imagens</string>
     <string name="SobreVideo"> Os vídeos pertencem ao Dr. Levi Harrison, médico ortopedista e cirurgião. Quando puder, dê um apoio no canal dele no youtube! </string>
     <string name="SobreVideo2"> Os vídeos estão em inglês, mas não há problema! Siga os exercícios e pratique.</string>
     <string name="RecomendacoesT"> Recomendações </string>
     <string name="Problema">Problema</string>
     <string name="Solução">Há solução?</string>
     <string name="video">Acesse os vídeos</string>
-    <string name="notificacoes">Ative as notificações</string>
+    <string name="notificacoes">Acesse as imagens</string>
+    <string name="sobrLT">Sobre o Dr. Levi Harrison</string>
+    <string name="sobrL">O Dr. Levi Harrison formou-se em medicina pela Universidade da Califórnia em Davis, School of Medicine e concluiu a bolsa de estudos no internacionalmente renomado Indiana Hand to Shoulder Center em Indianápolis. Ele completou sua residência em Cirurgia Ortopédica em Los Angeles, onde agora reside e avalia pacientes. Sua prática é um centro de excelência para lesões de membros superiores e ombros relacionadas a esportes, bem como reabilitação de mãos.</string>
     <string name="Sobre2">LER/DORT é uma síndrome constituída por um grupo de doenças – tendinite, tenossinovite, bursite, epicondilite, síndrome do túnel do carpo, dedo em gatilho, síndrome do desfiladeiro torácico, síndrome do pronador redondo, mialgias –, que afeta músculos, nervos e tendões dos membros superiores principalmente, e sobrecarrega o sistema musculoesquelético. Esse distúrbio provoca dor e inflamação e pode alterar a capacidade funcional da região comprometida. </string>
-    <string name="Recomendacoes"> Os exercícios os exercícios são para prevenção dos problemas ortopédicos, mas não subistitui um médico! Caso sinta dores ou desconfortos a consulta ao médico é imprescindível.  </string>
+    <string name="Recomendacoes"> Os exercícios são para prevenção dos problemas ortopédicos, mas não subistitui um médico! Caso sinta dores ou desconfortos a consulta ao médico é imprescindível.  </string>
     <string name="Sobre">Utilizando os vídeos, você poderá evitar problemas musculares como túnel de carpo, lesão por esforço repetitivo, tendinite e entre outros, melhorando a ergonomia, principalmente nos tempos de home office.</string>
 </resources>
