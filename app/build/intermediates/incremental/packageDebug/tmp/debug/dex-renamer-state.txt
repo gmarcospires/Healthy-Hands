@@ -1,4 +1,4 @@
-#Sun May 16 19:03:23 BRT 2021
+#Sun May 16 19:33:42 BRT 2021
 base.2=C\:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
 path.2=14/classes.dex
 base.1=C\:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

@@ -71,7 +71,7 @@
                 android:text="@string/Sobre2"
                 android:textColor="@color/black"
                 android:textSize="18sp"
-                android:theme="@style/Theme.AplicaçãoMãos" />
+                android:theme="@style/Theme.AplicacaoMaos" />
 
             <TextView
                 android:id="@+id/textView"

@@ -1,35 +1,23 @@
 [
     {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image2.xml.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\layout\\activity_image2.xml"
-    },
-    {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggdemonblackflare.jpg.flat",
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggdemonblackflare.jpg"
     },
     {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher1_round.xml.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher1_round.xml"
     },
     {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_egg.xml.flat",
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\layout\\activity_egg.xml"
-    },
-    {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggchidori.jpg.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggchidori.jpg"
     },
     {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -40,8 +28,116 @@
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher1_round.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher1_round.png"
+    },
+    {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon.xml.flat",
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable\\notification_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ler.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\ler.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggtwindragon.jpg.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggtwindragon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher1_round.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggdragonflame.jpg.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggdragonflame.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggicewhale.jpg.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggicewhale.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tendoes.jpg.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\tendoes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggearthflash.jpg.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggearthflash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground1.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground1.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_basico.jpg.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\basico.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\raw_video1.html.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\raw\\video1.html"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground1.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground1.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground1.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground1.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground1.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground1.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher1_round.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image2.xml.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\layout\\activity_image2.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher1_round.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggchidori.jpg.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggchidori.jpg"
     },
     {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -52,24 +148,12 @@
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggbasic.png"
     },
     {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ler.png.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\ler.png"
-    },
-    {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggfireball.jpg.flat",
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggfireball.jpg"
-    },
-    {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggtwindragon.jpg.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggtwindragon.jpg"
-    },
-    {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggdragonflame.jpg.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggdragonflame.jpg"
     },
     {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -84,24 +168,16 @@
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\pressao.jpg"
     },
     {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher1.xml.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher1.xml"
     },
     {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tendoes.jpg.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\tendoes.jpg"
-    },
-    {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggicewhale.jpg.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggicewhale.jpg"
-    },
-    {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -112,8 +188,12 @@
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggearthflash.jpg.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\eggearthflash.jpg"
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher1_round.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher1.png"
     },
     {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mobilidade.jpg.flat",
@@ -128,16 +208,8 @@
         "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\drlevi.png"
     },
     {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_basico.jpg.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\drawable-v24\\basico.jpg"
-    },
-    {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\raw_video1.html.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\raw\\video1.html"
-    },
-    {
-        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground1.png.flat",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground1.png"
     },
     {
         "merged": "C:\\Users\\marco\\AndroidStudioProjects\\AppMaos\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video3.xml.flat",
