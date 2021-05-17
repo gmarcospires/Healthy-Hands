@@ -20,6 +20,7 @@ public class egg extends AppCompatActivity {
         Uri uri = Uri.parse("android.resource://" + getPackageName() + "/" + R.drawable.eggbasic);
         imageView33.setImageURI(uri);
         index=0;
+        setTitle(R.string.eggT);
     }
 
     public void prox(View view) {

@@ -22,6 +22,7 @@ public class activity_image extends AppCompatActivity {
         Uri uri = Uri.parse("android.resource://" + getPackageName() + "/" + R.drawable.basico);
        imageView3.setImageURI(uri);
        index=0;
+       setTitle(R.string.SobreimageT);
     }
 
     public void prox(View view) {

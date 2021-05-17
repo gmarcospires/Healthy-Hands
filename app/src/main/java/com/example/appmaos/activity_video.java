@@ -35,7 +35,7 @@ public class activity_video extends AppCompatActivity {
         }
 //        myWebView.loadUrl("file:///android_res/raw/video1.html");
 
-
+    setTitle(R.string.SobreVideoT);
     }
     @Override
     protected void onSaveInstanceState(Bundle outState) {
